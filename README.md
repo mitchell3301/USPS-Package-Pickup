@@ -1,5 +1,7 @@
 # USPS-Package-Pickup
 
+## Works as of: 5/16/2022
+
 ## Automatically submits a USPS package pickup request with user inputted data
 
 ## How to install
